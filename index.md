@@ -1,10 +1,12 @@
 # Brandon Rogers Info Page
 
 ### Table of Contents
-[Work](#work)
-[Projects](#projects)
-[School](#school)
-[Free Time](#free-time)
+- [Brandon Rogers Info Page](#brandon-rogers-info-page)
+    - [Table of Contents](#table-of-contents)
+  - [Work](#work)
+  - [Projects](#projects)
+  - [School](#school)
+  - [Free Time](#free-time)
 
 ## Work
 
